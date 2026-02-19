@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+.venv311/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+binaural_beats_cli.egg-info/
+assets/audio/**/*.wav

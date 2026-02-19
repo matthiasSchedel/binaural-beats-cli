@@ -1,0 +1,21 @@
+[project]
+name = "binaural-beats-cli"
+version = "0.1.0"
+description = "Phase-accurate binaural beats generator"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy==2.2.3",
+  "scipy==1.15.2",
+  "click==8.1.8",
+  "soundfile==0.13.1",
+]
+
+[project.scripts]
+beats-gen = "beats_generator.cli:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["beats_generator", "beats_generator.generators"]
