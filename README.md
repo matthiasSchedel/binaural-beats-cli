@@ -4,10 +4,12 @@ Generates 96kHz / 32-bit float stereo WAV binaural beat sessions with phase-cont
 
 ## 2-Minute Demo Samples
 
-- Deep work focus (steady concentration): [`deep_work_focus_2m.mp3`](assets/audio/demos/deep_work_focus_2m.mp3)
-- Wind-down recovery (post-work decompression): [`wind_down_recovery_2m.mp3`](assets/audio/demos/wind_down_recovery_2m.mp3)
-- Rain meditation (breathwork / mindfulness): [`rain_meditation_2m.mp3`](assets/audio/demos/rain_meditation_2m.mp3)
-- Sleep transition (pre-sleep downshift): [`sleep_transition_2m.mp3`](assets/audio/demos/sleep_transition_2m.mp3)
+- Dive foundation, focus sprint (intense solo work): [`dive_focus_sprint_2m.mp3`](assets/audio/demos/dive_focus_sprint_2m.mp3)
+- Dive foundation, creative flow (ideation / writing): [`dive_creative_flow_2m.mp3`](assets/audio/demos/dive_creative_flow_2m.mp3)
+- Dive foundation, downshift (post-work nervous system settle): [`dive_downshift_2m.mp3`](assets/audio/demos/dive_downshift_2m.mp3)
+- Immersion foundation, breath meditation (mindfulness / box breathing): [`immersion_breath_meditation_2m.mp3`](assets/audio/demos/immersion_breath_meditation_2m.mp3)
+- Immersion foundation, sleep transition (pre-sleep off-ramp): [`immersion_sleep_transition_2m.mp3`](assets/audio/demos/immersion_sleep_transition_2m.mp3)
+- Immersion foundation, anxiety reset (rapid calming): [`immersion_anxiety_reset_2m.mp3`](assets/audio/demos/immersion_anxiety_reset_2m.mp3)
 
 ## Install
 
