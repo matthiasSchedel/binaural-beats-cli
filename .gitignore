@@ -9,3 +9,6 @@ __pycache__/
 *.swo
 binaural_beats_cli.egg-info/
 assets/audio/**/*.wav
+assets/audio/reference/variants_30m/
+assets/audio/reference/immersion_variants_30m/
+reference/*.flac
